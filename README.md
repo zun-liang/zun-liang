@@ -2,7 +2,8 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
   <br />
   <br />
-  <p>Hi, I am Zun Liang, a self-taught front-end developer👩🏻‍💻. To know more about me, check out my <a target="_blank" href="https://zunldev.com">website</a> ⊹𓍢ִ໋🌷͙֒⊹</p>
+  <p>Hi, I am Zun Liang, a self-taught front-end developer👩🏻‍💻.</p>
+  <p>To know more about me, check out my <a target="_blank" href="https://zunldev.com">website</a> ⊹𓍢ִ໋🌷͙֒⊹</p>
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
 </div>
