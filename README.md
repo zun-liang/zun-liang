@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
-## Latest Blog Posts ✎˖ᝰ✧˖°
+## Latest Blog Posts ✏️˖ᝰ✧˖°
 
 - [Save Private API Keys in Environment Variables in Vite](https://zunldev.com/blogs/save-private-api-keys-in-environment-variables-in-vite-qFY1zT7CTbZwwyE9l5ykM)
 - [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
