@@ -7,6 +7,8 @@
   To know more about me, check out my <a target="_blank" href="https://zunldev.com">website</a> ⊹𓍢ִ໋🌷͙֒⊹</p>
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
 </div>
 
 <!--
