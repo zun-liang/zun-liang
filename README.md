@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 
 ## Latest Blog Posts ✏️˖ᝰ✧˖°
 
+- [Save Private API Keys in Environment Variables in Vite](https://zunldev.com/blogs/save-private-api-keys-in-environment-variables-in-vite-qFY1zT7CTbZwwyE9l5ykM)
+- [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
   
