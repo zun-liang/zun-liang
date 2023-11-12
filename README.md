@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hey, I am Zun Liang</h1>
+# Hey, I am Zun Liang
 
-<h2 align="center">I am a self-taught Front End Developer 👩🏻‍💻</h2>
+## I am a self-taught Front End Developer 👩🏻‍💻
 
-<p align="center">I am enthusiastic about numbers and text, finding joy in the meticulous process of coding. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
+<p>I am enthusiastic about numbers and text, finding joy in the meticulous process of coding. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
 
 ## I’m currently learning ₊˚. ✩｡📚⋆｡°✩
 - Advanced React
