@@ -8,7 +8,7 @@
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)-->
 </div>
 
 <!--
