@@ -13,24 +13,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I am Zun Liang
+## Hey, I am Zun Liang
 
-## I am a self-taught Front End Developer 👩🏻‍💻
+### I am a self-taught Front End Developer 👩🏻‍💻
 
 <p>I am enthusiastic about numbers and text, finding joy in the meticulous process of coding. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
 
-## I’m currently learning ₊˚. ✩｡📚⋆｡°✩
+### Where to Find Me ୧ ‧₊˚📫⋆｡°✩
+[![Static Badge](https://img.shields.io/badge/contact%40zunldev.com-pink)](mailto:contact@zunldev.com)
+
+### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
 - Advanced React
 - React Router v6
 - Firebase
 - Styled Components
 
-## I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
+### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
 - Previous projects
 - Front End Development Libraries Certification
 - Frontend Mentor challenges
 
-## My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩
+### My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,16 +56,15 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)
 
-## Latest Blog Posts ✏️˖ᝰ✧˖°
+### Latest Blog Posts ✏️˖ᝰ✧˖°
 
 - [Save Private API Keys in Environment Variables in Vite](https://zunldev.com/blogs/save-private-api-keys-in-environment-variables-in-vite-qFY1zT7CTbZwwyE9l5ykM)
 - [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
   
-## GitHub Stats ୧ ‧₊˚📊⋆｡°✩
+### GitHub Stats ୧ ‧₊˚📊⋆｡°✩
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
-  
