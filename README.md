@@ -66,5 +66,7 @@ Here are some ideas to get you started:
 ### GitHub Stats ୧ ‧₊˚📊⋆｡°✩
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
+
+  <!--START_SECTION:waka--><!--END_SECTION:waka-->
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
