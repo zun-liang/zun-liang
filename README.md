@@ -69,6 +69,15 @@ Here are some ideas to get you started:
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript   2 hrs 36 mins   ████████████████████████▒   97.00 %
+Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+```
+
 <!--END_SECTION:waka-->
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
