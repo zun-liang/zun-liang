@@ -67,8 +67,6 @@ Here are some ideas to get you started:
   
 ### GitHub Stats ୧ ‧₊˚📊⋆｡°✩
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -80,5 +78,7 @@ HTML         0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
