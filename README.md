@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-pink?style=for-the-badge)](mailto:contact@zunldev.com)
 
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
+- Typescript
 - Advanced React
 - React Router v6
 - Firebase
@@ -67,6 +68,7 @@ Here are some ideas to get you started:
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
 
-  <!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
