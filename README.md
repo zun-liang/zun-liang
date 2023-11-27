@@ -71,11 +71,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 36 mins   ████████████████████████▒   97.00 %
-Markdown     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+From: 25 November 2023 - To: 27 November 2023
+
+Total Time: 7 hrs 3 mins
+
+Markdown     3 hrs 17 mins   ███████████▒░░░░░░░░░░░░░   45.92 %
+TypeScript   2 hrs 36 mins   █████████░░░░░░░░░░░░░░░░   36.36 %
+JavaScript   1 hr 9 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
+Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
