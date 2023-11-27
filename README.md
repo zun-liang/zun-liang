@@ -60,6 +60,7 @@ Here are some ideas to get you started:
 
 ### Latest Blog Posts ✏️˖ᝰ✧˖°
 
+- [Customizing GitHub Profile README](https://zunldev.com/blogs/customizing-github-profile-readme-QnUbeJM6tV1Dp4jKZCoCO)
 - [Save Private API Keys in Environment Variables in Vite](https://zunldev.com/blogs/save-private-api-keys-in-environment-variables-in-vite-qFY1zT7CTbZwwyE9l5ykM)
 - [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
 <!-- BLOG-POST-LIST:START -->
