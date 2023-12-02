@@ -71,18 +71,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 01 December 2023
+From: 25 November 2023 - To: 02 December 2023
 
-Total Time: 14 hrs 26 mins
+Total Time: 16 hrs 10 mins
 
-JavaScript   6 hrs 55 mins   ████████████░░░░░░░░░░░░░   47.55 %
-Markdown     3 hrs 32 mins   ██████░░░░░░░░░░░░░░░░░░░   24.34 %
-TypeScript   3 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
-HTML         45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-XML          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   8 hrs 29 mins   █████████████░░░░░░░░░░░░   51.60 %
+Markdown     3 hrs 32 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+TypeScript   3 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.61 %
+HTML         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+XML          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
