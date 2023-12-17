@@ -71,19 +71,19 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 16 December 2023
+From: 25 November 2023 - To: 17 December 2023
 
-Total Time: 23 hrs 34 mins
+Total Time: 29 hrs
 
-JavaScript   12 hrs 46 mins  █████████████▒░░░░░░░░░░░   53.49 %
-TypeScript   5 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   24.11 %
-Markdown     3 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-HTML         1 hr 3 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-XML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+JavaScript   12 hrs 46 mins  ███████████░░░░░░░░░░░░░░   43.57 %
+TypeScript   10 hrs 36 mins  █████████░░░░░░░░░░░░░░░░   36.19 %
+Markdown     3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
+HTML         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+CSS          17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+XML          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
