@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I am a self-taught Front End Developer 👩🏻‍💻
 
-<p>I am enthusiastic about numbers and text, finding joy in the meticulous process of coding. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
+<p>I am enthusiastic about the coding process of transforming ideas into dynamic, interactive realities. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
 
 ### Where to Find Me ୧ ‧₊˚📫⋆｡°✩
 [![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-pink?style=for-the-badge)](mailto:contact@zunldev.com)
