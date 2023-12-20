@@ -17,6 +17,6 @@ jobs:
           ### content
           SHOW_TITLE: true # optional
           TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
+          LANG_COUNT: 5 # optional
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
