@@ -83,6 +83,6 @@ CSS          3 hrs 14 mins   █▒░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
   
-  [![Top Langs](https://github-readme-stats-git-master-zun-liangs-projects.vercel.app/api/top-langs/?username=zun-liang&layout=compact)](https://github.com/zun-liang)
+  [![Top Langs](https://github-readme-stats-git-master-zun-liangs-projects.vercel.app/api/top-langs/?username=zun-liang&layout=compact&count-private=true)](https://github.com/zun-liang)
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
