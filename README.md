@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 - Advanced React
 - React Router v6
 - Firebase
-- Styled-Components
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
 - Previous projects
