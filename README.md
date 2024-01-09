@@ -81,7 +81,8 @@ HTML         4 hrs 38 mins   █▒░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=zun-liang)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zun-liang&theme=github-dark-blue&hide_border=false)](https://git.io/streak-stats)
+  
   [![Top Langs](https://github-readme-stats-git-master-zun-liangs-projects.vercel.app/api/top-langs/?username=zun-liang&layout=compact&count-private=true)](https://github.com/zun-liang)
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
