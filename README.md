@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hey, I am Zun Liang
 
-### I am a self-taught Front End Developer 👩🏻‍💻
+### I am a Front End Developer 👩🏻‍💻
 
 <p>I am enthusiastic about the coding process of transforming ideas into dynamic, interactive realities. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
 
