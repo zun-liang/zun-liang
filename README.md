@@ -69,15 +69,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2023 - To: 04 February 2024
+From: 25 November 2023 - To: 05 February 2024
 
-Total Time: 131 hrs 53 mins
+Total Time: 135 hrs 58 mins
 
-TypeScript   68 hrs 31 mins  █████████████░░░░░░░░░░░░   51.72 %
-JavaScript   37 hrs 31 mins  ███████░░░░░░░░░░░░░░░░░░   28.32 %
-Markdown     10 hrs 26 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-CSS          7 hrs 33 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
-HTML         5 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+TypeScript   72 hrs 6 mins   █████████████▒░░░░░░░░░░░   52.78 %
+JavaScript   37 hrs 33 mins  ███████░░░░░░░░░░░░░░░░░░   27.49 %
+Markdown     10 hrs 26 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+CSS          7 hrs 56 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
+HTML         6 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
