@@ -24,14 +24,15 @@ Here are some ideas to get you started:
 
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
 - Typescript
-- Advanced React
-- React Router v6
-- Firebase
+- PostgreSQL
+- Jest
+- Redux
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
 - Previous projects
 - Front End Development Libraries Certification
-- Frontend Mentor challenges
+- Data Visualization Certification
+- Relational Database Certification
 
 ### My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩
 
