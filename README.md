@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - Redux
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
-- Previous projects
 - Front End Development Libraries Certification
 - Data Visualization Certification
 - Relational Database Certification
@@ -48,6 +47,7 @@ Here are some ideas to get you started:
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
