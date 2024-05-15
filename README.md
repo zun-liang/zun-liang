@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
 - Node.js
 - Express.js
+- MongoDB
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
 - Front End Development Libraries Certification
