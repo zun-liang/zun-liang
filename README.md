@@ -23,11 +23,8 @@ Here are some ideas to get you started:
 [![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-pink?style=for-the-badge)](mailto:contact@zunldev.com)
 
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
-- Typescript
-- PostgreSQL
-- Bash
-- Jest
-- Redux
+- Node.js
+- Express.js
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
 - Front End Development Libraries Certification
