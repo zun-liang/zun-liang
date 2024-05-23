@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - Node.js
 - Express.js
 - MongoDB
+- Mongoose
+- d3.js
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
 - Front End Development Libraries Certification
