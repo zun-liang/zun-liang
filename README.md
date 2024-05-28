@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>I am enthusiastic about the coding process of transforming ideas into dynamic, interactive realities. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
 
 ### Where to Find Me ୧ ‧₊˚📫⋆｡°✩
-[![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-pink?style=for-the-badge)](mailto:contact@zunldev.com)
+[![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-%23FF79C6?style=for-the-badge&labelColor=%23000000)](mailto:contact@zunldev.com)
 
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
 - Node.js
@@ -34,10 +34,7 @@ Here are some ideas to get you started:
 - Data Visualization Certification
 - Back End Development and APIs Certification
 
-<details>
-  <summary>
-    <h3>My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩</h3>
-  </summary>
+### My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -60,24 +57,16 @@ Here are some ideas to get you started:
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-  
-</details>
 
-<details>
-  <summary>
-    <h3>Latest Blog Posts ✏️˖ᝰ✧˖°</h3>
-  </summary>
+### Latest Blog Posts ✏️˖ᝰ✧˖°
   
   - [Customizing GitHub Profile README](https://zunldev.com/blogs/customizing-github-profile-readme-QnUbeJM6tV1Dp4jKZCoCO)
   - [Save Private API Keys in Environment Variables in Vite](https://zunldev.com/blogs/save-private-api-keys-in-environment-variables-in-vite-qFY1zT7CTbZwwyE9l5ykM)
   - [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
   <!-- BLOG-POST-LIST:START -->
   <!-- BLOG-POST-LIST:END -->
-  
-</details>
 
-<details>
-  <summary><h3>GitHub Stats ୧ ‧₊˚📊⋆｡°✩</h3></summary>
+### GitHub Stats ୧ ‧₊˚📊⋆｡°✩
   <!--START_SECTION:waka-->
 
 ```txt
@@ -96,10 +85,13 @@ Git           49 mins         ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zun-liang&theme=github-dark-blue&hide_border=false)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats-git-master-zun-liangs-projects.vercel.app/api/top-langs/?username=zun-liang&layout=compact&count-private=true)](https://github.com/zun-liang)
-  
-  ![](https://komarev.com/ghpvc/?username=zun-liang)
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zun-liang&theme=omni)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zun-liang&theme=omni)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zun-liang&theme=omni)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zun-liang&theme=omni)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zun-liang&theme=omni&utcOffset=8)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zun-liang&theme=omni&hide_border=true&border_radius=4.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+  ![](https://komarev.com/ghpvc/?username=zun-liang&color=ff79c6)
   
 </details>
