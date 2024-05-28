@@ -66,10 +66,10 @@ Here are some ideas to get you started:
 - [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-  
-### GitHub Stats ୧ ‧₊˚📊⋆｡°✩
 
-<!--START_SECTION:waka-->
+<details>
+  <summary><h3>GitHub Stats ୧ ‧₊˚📊⋆｡°✩</h3></summary>
+  <!--START_SECTION:waka-->
 
 ```txt
 Total Time: 203 hrs 29 mins
@@ -92,3 +92,7 @@ Git           49 mins         ░░░░░░░░░░░░░░░░�
   [![Top Langs](https://github-readme-stats-git-master-zun-liangs-projects.vercel.app/api/top-langs/?username=zun-liang&layout=compact&count-private=true)](https://github.com/zun-liang)
   
   ![](https://komarev.com/ghpvc/?username=zun-liang)
+  
+</details>
+
+
