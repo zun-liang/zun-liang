@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>I am enthusiastic about the coding process of transforming ideas into dynamic, interactive realities. I thrive on the challenges of debugging and problem-solving. To know more about my work and the person behind it, check out my <a target="_blank" href="https://zunldev.com">website</a> ✨.</p>
 
 ### Where to Find Me ୧ ‧₊˚📫⋆｡°✩
-[![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-%23FF79C6?style=for-the-badge&labelColor=%23000000)](mailto:contact@zunldev.com)
+[![Static Badge](https://img.shields.io/badge/%F0%9F%93%A7-contact%40zunldev.com-%23f79c6?style=for-the-badge&labelColor=%23191622&color=%23ff79c6)](mailto:contact@zunldev.com)
 
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
 - Node.js
