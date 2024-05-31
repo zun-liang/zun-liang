@@ -91,7 +91,7 @@ Git           49 mins         ░░░░░░░░░░░░░░░░�
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zun-liang&theme=omni)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zun-liang&theme=omni)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zun-liang&theme=omni&utcOffset=8)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zun-liang&theme=omni&hide_border=true&border_radius=4.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)<br/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=zun-liang&theme=omni&hide_border=true&card_width=683)](https://git.io/streak-stats)<br/>
   ![](https://komarev.com/ghpvc/?username=zun-liang&color=ff79c6)
   
 </details>
