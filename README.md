@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - d3.js
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
-- Front End Development Libraries Certification
 - Data Visualization Certification
 - Back End Development and APIs Certification
 
