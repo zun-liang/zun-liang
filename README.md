@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - d3.js
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
-- NodeJS Tutorial and Projects Course
+- MERN Stack Course
 - Data Visualization Certification
 - Back End Development and APIs Certification
 
