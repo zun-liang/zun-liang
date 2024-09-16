@@ -30,9 +30,8 @@ Here are some ideas to get you started:
 - d3.js
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
-- MERN Stack Course
-- Data Visualization Certification
 - Back End Development and APIs Certification
+- Data Visualization Certification
 
 ### My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩
   
