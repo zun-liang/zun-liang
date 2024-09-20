@@ -72,17 +72,17 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 410 hrs 53 mins
+Total Time: 414 hrs 32 mins
 
-JavaScript    170 hrs 7 mins  ██████████▒░░░░░░░░░░░░░░   41.32 %
-TypeScript    143 hrs 28 mins ████████▓░░░░░░░░░░░░░░░░   34.85 %
-Markdown      30 hrs 19 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
-Bash          28 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-CSS           11 hrs 57 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-HTML          10 hrs 32 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-JSON          9 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+JavaScript    170 hrs 7 mins  ██████████▒░░░░░░░░░░░░░░   40.96 %
+TypeScript    146 hrs 49 mins █████████░░░░░░░░░░░░░░░░   35.35 %
+Markdown      30 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
+Bash          28 hrs 19 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
+CSS           12 hrs 10 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+HTML          10 hrs 37 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+JSON          9 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
 CSV           1 hr 56 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
-Text          1 hr 27 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+Text          1 hr 28 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 Git Config    1 hr 3 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
