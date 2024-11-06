@@ -60,14 +60,6 @@ Here are some ideas to get you started:
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-### Latest Blog Posts ✏️˖ᝰ✧˖°
-  
-  - [Customizing GitHub Profile README](https://zunldev.com/blogs/customizing-github-profile-readme-QnUbeJM6tV1Dp4jKZCoCO)
-  - [Save Private API Keys in Environment Variables in Vite](https://zunldev.com/blogs/save-private-api-keys-in-environment-variables-in-vite-qFY1zT7CTbZwwyE9l5ykM)
-  - [Firestore Data Structure](https://zunldev.com/blogs/firestore-data-structure-7sMKb6jf0Ml5WmSLamZBL)
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
-
 ### GitHub Stats ୧ ‧₊˚📊⋆｡°✩
   <!--START_SECTION:waka-->
 
