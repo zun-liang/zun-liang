@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 [![Static Badge](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F-contact%40zunldev.com-%23191622?style=for-the-badge&labelColor=%23ff79c6)](mailto:contact@zunldev.com)
 
 ### I’m currently learning ₊˚. ✩｡📚⋆｡°✩
+- Python
 - Node.js
 - Express.js
 - MongoDB
@@ -30,8 +31,10 @@ Here are some ideas to get you started:
 - d3.js
 
 ### I’m currently working on ｡⨯⁺₊  💼 ´ˎ˗
-- Back End Development and APIs Certification
-- Data Visualization Certification
+- GTx CS1301 Introduction to Python Programming
+- freeCodeCamp Full Stack Developer Curriculum
+- freeCodeCamp Back End Development and APIs Certification
+- freeCodeCamp Data Visualization Certification
 
 ### My Toolset ୧ ‧₊˚ 💻 ⋆｡°✩
   
