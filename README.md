@@ -68,11 +68,11 @@ Here are some ideas to get you started:
   <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 525 hrs 25 mins
+Total Time: 525 hrs 57 mins
 
-TypeScript    226 hrs 2 mins  ██████████▓░░░░░░░░░░░░░░   42.95 %
-JavaScript    178 hrs 39 mins ████████▒░░░░░░░░░░░░░░░░   33.95 %
-Markdown      31 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+TypeScript    226 hrs 2 mins  ██████████▓░░░░░░░░░░░░░░   42.91 %
+JavaScript    179 hrs 11 mins ████████▓░░░░░░░░░░░░░░░░   34.01 %
+Markdown      31 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 Bash          28 hrs 19 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 CSS           22 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
 HTML          17 hrs 18 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
